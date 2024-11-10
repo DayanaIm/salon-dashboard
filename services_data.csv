@@ -1,0 +1,1341 @@
+Date,Service,Revenue
+2024-01-01,Color,138.01
+2024-01-01,Treatment,115.37
+2024-01-01,Extensions,152.33
+2024-01-01,Styling,44.24
+2024-01-02,Haircut (Kids),19.34
+2024-01-02,Color,98.75
+2024-01-02,Treatment,73.97
+2024-01-02,Styling,57.99
+2024-01-03,Haircut (Men),25.34
+2024-01-03,Haircut (Women),53.3
+2024-01-03,Color,92.71
+2024-01-03,Treatment,62.82
+2024-01-03,Styling,46.74
+2024-01-05,Haircut (Women),79.7
+2024-01-05,Color,151.47
+2024-01-05,Extensions,430.72
+2024-01-05,Styling,75.49
+2024-01-06,Haircut (Women),86.86
+2024-01-06,Treatment,140.52
+2024-01-06,Extensions,338.1
+2024-01-06,Styling,77.49
+2024-01-07,Haircut (Men),31.27
+2024-01-07,Color,191.43
+2024-01-07,Extensions,294.65
+2024-01-08,Color,76.15
+2024-01-08,Styling,44.42
+2024-01-09,Treatment,56.59
+2024-01-09,Extensions,289.97
+2024-01-10,Haircut (Men),29.97
+2024-01-10,Haircut (Kids),17.4
+2024-01-10,Color,145.73
+2024-01-10,Treatment,82.63
+2024-01-10,Styling,54.13
+2024-01-11,Haircut (Men),26.47
+2024-01-11,Haircut (Women),50.73
+2024-01-11,Haircut (Kids),22.43
+2024-01-11,Color,101.83
+2024-01-11,Treatment,92.41
+2024-01-12,Haircut (Men),59.64
+2024-01-12,Haircut (Women),61.62
+2024-01-12,Haircut (Kids),38.58
+2024-01-12,Extensions,233.27
+2024-01-12,Styling,94.18
+2024-01-13,Haircut (Men),33.7
+2024-01-13,Haircut (Women),76.83
+2024-01-13,Haircut (Kids),23.48
+2024-01-13,Color,146.49
+2024-01-13,Treatment,147.44
+2024-01-13,Extensions,247.73
+2024-01-13,Styling,56.09
+2024-01-14,Haircut (Women),72.94
+2024-01-14,Haircut (Kids),40.01
+2024-01-14,Color,139.36
+2024-01-14,Treatment,141.99
+2024-01-14,Extensions,402.19
+2024-01-15,Haircut (Men),39.97
+2024-01-15,Haircut (Women),58.41
+2024-01-15,Haircut (Kids),24.19
+2024-01-15,Extensions,189.82
+2024-01-15,Styling,64.53
+2024-01-16,Haircut (Women),54.74
+2024-01-16,Haircut (Kids),29.86
+2024-01-16,Color,95.32
+2024-01-16,Treatment,105.37
+2024-01-16,Extensions,226.32
+2024-01-17,Haircut (Men),22.76
+2024-01-17,Color,74.9
+2024-01-17,Treatment,74.45
+2024-01-17,Extensions,191.6
+2024-01-18,Color,121.61
+2024-01-18,Treatment,92.0
+2024-01-18,Extensions,285.95
+2024-01-18,Styling,62.09
+2024-01-19,Haircut (Men),59.38
+2024-01-19,Haircut (Women),56.45
+2024-01-19,Haircut (Kids),41.11
+2024-01-19,Color,219.37
+2024-01-19,Treatment,94.78
+2024-01-20,Haircut (Men),45.2
+2024-01-20,Color,121.53
+2024-01-20,Extensions,417.67
+2024-01-21,Haircut (Men),40.86
+2024-01-21,Haircut (Women),78.2
+2024-01-21,Color,108.55
+2024-01-21,Treatment,140.1
+2024-01-22,Color,134.26
+2024-01-23,Haircut (Men),28.55
+2024-01-23,Haircut (Women),37.33
+2024-01-23,Haircut (Kids),16.65
+2024-01-23,Color,146.23
+2024-01-23,Extensions,243.34
+2024-01-23,Styling,52.5
+2024-01-24,Haircut (Men),32.0
+2024-01-24,Haircut (Women),50.97
+2024-01-24,Haircut (Kids),16.57
+2024-01-24,Color,86.61
+2024-01-24,Treatment,118.49
+2024-01-24,Extensions,173.45
+2024-01-24,Styling,38.36
+2024-01-25,Haircut (Men),23.3
+2024-01-25,Haircut (Kids),28.45
+2024-01-25,Color,115.11
+2024-01-25,Styling,47.26
+2024-01-26,Haircut (Kids),33.71
+2024-01-26,Treatment,107.0
+2024-01-26,Styling,46.32
+2024-01-27,Haircut (Men),53.91
+2024-01-27,Haircut (Women),49.11
+2024-01-27,Haircut (Kids),39.25
+2024-01-27,Color,223.45
+2024-01-27,Treatment,153.08
+2024-01-27,Extensions,372.85
+2024-01-27,Styling,111.52
+2024-01-28,Haircut (Men),38.65
+2024-01-28,Haircut (Kids),41.85
+2024-01-28,Treatment,75.2
+2024-01-28,Extensions,423.93
+2024-01-28,Styling,112.3
+2024-01-29,Haircut (Kids),27.11
+2024-01-29,Color,94.66
+2024-01-29,Treatment,102.63
+2024-01-29,Extensions,236.91
+2024-01-29,Styling,55.55
+2024-01-30,Haircut (Men),37.09
+2024-01-30,Haircut (Women),33.0
+2024-01-30,Color,120.01
+2024-01-30,Treatment,50.73
+2024-01-30,Styling,48.44
+2024-01-31,Haircut (Women),31.83
+2024-01-31,Treatment,50.99
+2024-01-31,Styling,48.33
+2024-02-01,Haircut (Women),41.99
+2024-02-01,Haircut (Kids),29.31
+2024-02-01,Color,130.88
+2024-02-01,Treatment,91.45
+2024-02-01,Styling,75.55
+2024-02-02,Haircut (Men),53.76
+2024-02-02,Haircut (Women),89.04
+2024-02-02,Haircut (Kids),40.92
+2024-02-02,Color,170.35
+2024-02-02,Extensions,308.39
+2024-02-02,Styling,68.82
+2024-02-03,Haircut (Women),76.76
+2024-02-03,Haircut (Kids),39.11
+2024-02-03,Treatment,166.54
+2024-02-03,Styling,59.27
+2024-02-04,Haircut (Men),40.76
+2024-02-04,Haircut (Women),72.25
+2024-02-04,Haircut (Kids),32.18
+2024-02-04,Color,107.88
+2024-02-04,Treatment,152.46
+2024-02-04,Styling,115.26
+2024-02-05,Haircut (Men),28.23
+2024-02-05,Color,72.33
+2024-02-05,Treatment,106.44
+2024-02-06,Haircut (Men),30.35
+2024-02-06,Haircut (Women),59.31
+2024-02-06,Color,129.15
+2024-02-06,Treatment,76.37
+2024-02-06,Extensions,206.85
+2024-02-07,Haircut (Men),35.38
+2024-02-07,Haircut (Women),43.78
+2024-02-07,Color,103.82
+2024-02-08,Haircut (Men),28.43
+2024-02-08,Haircut (Women),42.93
+2024-02-08,Extensions,279.33
+2024-02-09,Haircut (Women),86.4
+2024-02-09,Haircut (Kids),33.99
+2024-02-09,Treatment,143.36
+2024-02-09,Extensions,357.3
+2024-02-10,Haircut (Women),82.48
+2024-02-10,Treatment,94.14
+2024-02-10,Styling,45.23
+2024-02-11,Haircut (Men),35.74
+2024-02-11,Color,185.96
+2024-02-11,Treatment,82.72
+2024-02-11,Extensions,264.12
+2024-02-11,Styling,61.57
+2024-02-12,Haircut (Men),34.3
+2024-02-12,Haircut (Women),45.14
+2024-02-12,Haircut (Kids),20.23
+2024-02-12,Extensions,247.55
+2024-02-13,Haircut (Men),27.97
+2024-02-13,Haircut (Kids),28.44
+2024-02-13,Color,118.29
+2024-02-13,Treatment,87.28
+2024-02-13,Extensions,217.21
+2024-02-13,Styling,49.58
+2024-02-14,Haircut (Men),23.31
+2024-02-14,Treatment,116.95
+2024-02-14,Styling,54.39
+2024-02-15,Haircut (Women),33.55
+2024-02-15,Haircut (Kids),27.5
+2024-02-15,Color,89.03
+2024-02-15,Extensions,209.39
+2024-02-15,Styling,73.32
+2024-02-16,Haircut (Men),52.33
+2024-02-16,Haircut (Women),45.97
+2024-02-16,Haircut (Kids),25.19
+2024-02-16,Treatment,78.01
+2024-02-16,Extensions,407.78
+2024-02-16,Styling,117.2
+2024-02-17,Haircut (Men),58.06
+2024-02-17,Haircut (Women),87.0
+2024-02-17,Haircut (Kids),35.65
+2024-02-18,Haircut (Men),42.56
+2024-02-18,Haircut (Women),65.66
+2024-02-18,Color,196.19
+2024-02-18,Extensions,428.75
+2024-02-19,Haircut (Men),38.43
+2024-02-19,Haircut (Women),58.95
+2024-02-19,Extensions,227.05
+2024-02-20,Haircut (Men),31.1
+2024-02-20,Haircut (Women),53.26
+2024-02-20,Haircut (Kids),27.55
+2024-02-20,Styling,67.06
+2024-02-21,Haircut (Men),29.24
+2024-02-21,Haircut (Kids),22.06
+2024-02-21,Color,137.62
+2024-02-21,Extensions,298.58
+2024-02-22,Haircut (Men),22.58
+2024-02-22,Haircut (Women),52.86
+2024-02-22,Haircut (Kids),27.93
+2024-02-22,Extensions,154.23
+2024-02-23,Haircut (Men),51.88
+2024-02-23,Haircut (Women),70.24
+2024-02-23,Haircut (Kids),24.63
+2024-02-23,Color,212.06
+2024-02-23,Treatment,179.28
+2024-02-23,Extensions,277.34
+2024-02-24,Haircut (Men),57.9
+2024-02-24,Haircut (Women),49.05
+2024-02-24,Haircut (Kids),33.75
+2024-02-24,Extensions,423.46
+2024-02-24,Styling,117.65
+2024-02-25,Haircut (Men),48.94
+2024-02-25,Haircut (Women),73.72
+2024-02-25,Haircut (Kids),26.16
+2024-02-25,Color,146.03
+2024-02-25,Treatment,153.96
+2024-02-25,Extensions,265.41
+2024-02-25,Styling,119.39
+2024-02-26,Haircut (Men),37.1
+2024-02-26,Haircut (Kids),22.03
+2024-02-26,Color,108.5
+2024-02-26,Extensions,261.36
+2024-02-27,Haircut (Women),59.39
+2024-02-28,Haircut (Men),27.92
+2024-02-28,Haircut (Women),31.96
+2024-02-28,Color,114.72
+2024-02-28,Treatment,86.67
+2024-02-29,Haircut (Men),38.35
+2024-02-29,Haircut (Women),41.08
+2024-02-29,Haircut (Kids),19.77
+2024-02-29,Color,136.87
+2024-02-29,Treatment,72.23
+2024-02-29,Extensions,282.28
+2024-02-29,Styling,55.67
+2024-03-01,Haircut (Women),56.51
+2024-03-01,Extensions,427.03
+2024-03-01,Styling,72.35
+2024-03-02,Haircut (Men),40.13
+2024-03-02,Haircut (Women),68.49
+2024-03-02,Haircut (Kids),23.13
+2024-03-02,Treatment,96.27
+2024-03-02,Extensions,418.83
+2024-03-02,Styling,82.05
+2024-03-03,Haircut (Men),59.49
+2024-03-03,Haircut (Women),50.59
+2024-03-03,Haircut (Kids),28.96
+2024-03-03,Color,222.24
+2024-03-03,Extensions,226.9
+2024-03-04,Haircut (Men),23.53
+2024-03-04,Haircut (Women),31.72
+2024-03-04,Haircut (Kids),25.39
+2024-03-04,Color,78.42
+2024-03-05,Haircut (Men),37.21
+2024-03-05,Haircut (Women),46.05
+2024-03-05,Haircut (Kids),23.79
+2024-03-05,Color,90.61
+2024-03-05,Treatment,75.22
+2024-03-05,Styling,49.39
+2024-03-06,Haircut (Men),33.7
+2024-03-06,Haircut (Women),58.2
+2024-03-06,Haircut (Kids),25.89
+2024-03-06,Color,119.0
+2024-03-06,Treatment,70.52
+2024-03-06,Extensions,153.92
+2024-03-06,Styling,78.17
+2024-03-07,Haircut (Women),53.85
+2024-03-07,Haircut (Kids),26.72
+2024-03-07,Color,77.47
+2024-03-07,Treatment,82.08
+2024-03-07,Extensions,191.36
+2024-03-07,Styling,72.24
+2024-03-08,Haircut (Men),55.21
+2024-03-08,Haircut (Women),54.61
+2024-03-08,Haircut (Kids),39.01
+2024-03-08,Treatment,179.42
+2024-03-08,Styling,72.47
+2024-03-09,Haircut (Men),40.63
+2024-03-09,Haircut (Women),74.25
+2024-03-09,Treatment,104.94
+2024-03-10,Haircut (Men),58.16
+2024-03-10,Haircut (Kids),37.25
+2024-03-10,Styling,66.37
+2024-03-11,Haircut (Men),26.91
+2024-03-11,Haircut (Women),51.79
+2024-03-11,Extensions,187.26
+2024-03-12,Haircut (Men),37.99
+2024-03-12,Color,84.31
+2024-03-12,Treatment,57.56
+2024-03-12,Extensions,235.93
+2024-03-12,Styling,39.92
+2024-03-13,Haircut (Kids),22.68
+2024-03-13,Color,109.65
+2024-03-13,Treatment,98.87
+2024-03-13,Extensions,296.4
+2024-03-13,Styling,35.9
+2024-03-14,Haircut (Men),26.46
+2024-03-14,Haircut (Women),49.24
+2024-03-14,Haircut (Kids),22.46
+2024-03-14,Treatment,110.31
+2024-03-15,Haircut (Men),35.05
+2024-03-15,Treatment,122.9
+2024-03-15,Extensions,235.64
+2024-03-16,Haircut (Women),56.43
+2024-03-16,Haircut (Kids),44.0
+2024-03-16,Color,113.82
+2024-03-16,Styling,60.29
+2024-03-17,Haircut (Men),39.35
+2024-03-17,Haircut (Kids),28.83
+2024-03-17,Treatment,97.55
+2024-03-18,Haircut (Men),39.72
+2024-03-18,Haircut (Kids),29.1
+2024-03-18,Color,106.68
+2024-03-18,Extensions,173.52
+2024-03-19,Haircut (Men),22.4
+2024-03-19,Haircut (Kids),19.28
+2024-03-19,Color,132.93
+2024-03-19,Styling,71.72
+2024-03-20,Treatment,106.28
+2024-03-20,Styling,74.8
+2024-03-21,Haircut (Men),39.91
+2024-03-21,Haircut (Women),55.23
+2024-03-21,Haircut (Kids),25.81
+2024-03-21,Color,72.62
+2024-03-21,Extensions,264.41
+2024-03-22,Haircut (Men),30.57
+2024-03-22,Haircut (Women),52.82
+2024-03-22,Haircut (Kids),29.03
+2024-03-22,Color,131.49
+2024-03-22,Extensions,416.91
+2024-03-22,Styling,80.11
+2024-03-23,Haircut (Men),46.1
+2024-03-23,Haircut (Kids),25.16
+2024-03-23,Color,135.25
+2024-03-23,Treatment,144.11
+2024-03-23,Styling,88.84
+2024-03-24,Haircut (Men),55.53
+2024-03-24,Haircut (Women),51.33
+2024-03-24,Haircut (Kids),35.64
+2024-03-24,Color,188.77
+2024-03-25,Haircut (Kids),24.47
+2024-03-25,Color,87.81
+2024-03-25,Treatment,119.79
+2024-03-25,Extensions,250.36
+2024-03-26,Haircut (Women),47.07
+2024-03-26,Haircut (Kids),25.72
+2024-03-26,Styling,74.72
+2024-03-27,Haircut (Men),33.19
+2024-03-27,Haircut (Women),43.34
+2024-03-27,Color,136.94
+2024-03-27,Treatment,81.27
+2024-03-28,Haircut (Men),27.28
+2024-03-28,Haircut (Women),44.97
+2024-03-28,Haircut (Kids),26.08
+2024-03-28,Color,131.15
+2024-03-28,Treatment,115.19
+2024-03-29,Haircut (Men),34.26
+2024-03-29,Haircut (Women),56.33
+2024-03-29,Haircut (Kids),23.92
+2024-03-29,Color,209.63
+2024-03-29,Styling,54.21
+2024-03-30,Haircut (Men),34.55
+2024-03-30,Haircut (Kids),34.88
+2024-03-30,Treatment,98.01
+2024-03-30,Styling,69.28
+2024-03-31,Haircut (Men),32.86
+2024-03-31,Haircut (Women),47.97
+2024-03-31,Haircut (Kids),36.43
+2024-03-31,Color,178.4
+2024-03-31,Extensions,304.44
+2024-03-31,Styling,98.04
+2024-04-01,Haircut (Kids),23.67
+2024-04-01,Treatment,95.82
+2024-04-01,Extensions,258.28
+2024-04-02,Haircut (Kids),15.0
+2024-04-02,Color,121.41
+2024-04-02,Treatment,88.09
+2024-04-02,Extensions,179.18
+2024-04-02,Styling,53.52
+2024-04-03,Haircut (Women),52.1
+2024-04-03,Haircut (Kids),27.21
+2024-04-03,Color,98.99
+2024-04-03,Treatment,75.12
+2024-04-03,Extensions,208.14
+2024-04-03,Styling,78.19
+2024-04-04,Haircut (Kids),16.7
+2024-04-04,Treatment,78.68
+2024-04-04,Extensions,165.98
+2024-04-04,Styling,51.93
+2024-04-05,Color,158.77
+2024-04-05,Treatment,134.06
+2024-04-05,Styling,83.34
+2024-04-06,Haircut (Men),53.5
+2024-04-06,Haircut (Women),54.59
+2024-04-06,Haircut (Kids),25.34
+2024-04-06,Color,129.32
+2024-04-06,Styling,84.21
+2024-04-07,Haircut (Men),46.19
+2024-04-07,Treatment,156.24
+2024-04-07,Styling,51.24
+2024-04-08,Haircut (Men),26.32
+2024-04-08,Haircut (Women),46.0
+2024-04-08,Haircut (Kids),27.84
+2024-04-08,Color,70.99
+2024-04-08,Treatment,86.33
+2024-04-08,Extensions,197.59
+2024-04-09,Haircut (Men),29.02
+2024-04-09,Haircut (Women),42.79
+2024-04-09,Haircut (Kids),18.18
+2024-04-09,Color,127.05
+2024-04-09,Treatment,65.5
+2024-04-09,Extensions,230.93
+2024-04-09,Styling,34.02
+2024-04-10,Haircut (Men),27.98
+2024-04-10,Color,123.64
+2024-04-10,Treatment,104.61
+2024-04-10,Extensions,198.46
+2024-04-11,Haircut (Men),24.01
+2024-04-11,Haircut (Kids),15.66
+2024-04-11,Color,71.17
+2024-04-11,Extensions,167.45
+2024-04-12,Haircut (Men),31.22
+2024-04-12,Haircut (Women),49.64
+2024-04-12,Haircut (Kids),36.65
+2024-04-12,Color,132.02
+2024-04-12,Treatment,143.93
+2024-04-12,Styling,52.69
+2024-04-13,Haircut (Women),56.44
+2024-04-13,Haircut (Kids),39.68
+2024-04-13,Treatment,145.88
+2024-04-13,Extensions,284.31
+2024-04-14,Haircut (Men),47.11
+2024-04-14,Haircut (Kids),30.16
+2024-04-14,Treatment,166.26
+2024-04-14,Extensions,417.66
+2024-04-14,Styling,95.61
+2024-04-15,Color,111.33
+2024-04-15,Extensions,174.52
+2024-04-15,Styling,31.83
+2024-04-16,Haircut (Men),27.5
+2024-04-17,Haircut (Women),54.97
+2024-04-17,Haircut (Kids),29.01
+2024-04-17,Color,75.69
+2024-04-17,Treatment,114.55
+2024-04-17,Extensions,173.02
+2024-04-17,Styling,36.32
+2024-04-18,Haircut (Men),32.87
+2024-04-18,Extensions,243.6
+2024-04-19,Haircut (Men),36.59
+2024-04-19,Color,152.33
+2024-04-19,Treatment,85.69
+2024-04-19,Extensions,342.88
+2024-04-20,Haircut (Men),39.35
+2024-04-20,Color,217.28
+2024-04-20,Treatment,89.83
+2024-04-20,Styling,117.28
+2024-04-21,Haircut (Men),32.81
+2024-04-21,Haircut (Kids),43.63
+2024-04-21,Treatment,82.57
+2024-04-21,Extensions,443.51
+2024-04-21,Styling,117.76
+2024-04-22,Haircut (Men),31.18
+2024-04-22,Haircut (Women),38.34
+2024-04-22,Haircut (Kids),21.68
+2024-04-22,Extensions,237.27
+2024-04-23,Haircut (Kids),18.01
+2024-04-23,Treatment,67.34
+2024-04-24,Haircut (Kids),23.61
+2024-04-24,Styling,77.87
+2024-04-25,Haircut (Men),37.22
+2024-04-25,Haircut (Women),46.09
+2024-04-25,Haircut (Kids),16.63
+2024-04-25,Color,80.66
+2024-04-25,Treatment,83.1
+2024-04-25,Extensions,152.99
+2024-04-25,Styling,76.58
+2024-04-26,Haircut (Men),31.18
+2024-04-26,Haircut (Women),70.7
+2024-04-26,Treatment,90.27
+2024-04-27,Haircut (Men),53.77
+2024-04-27,Haircut (Women),45.14
+2024-04-27,Haircut (Kids),24.7
+2024-04-27,Color,223.29
+2024-04-27,Treatment,119.13
+2024-04-27,Extensions,374.45
+2024-04-27,Styling,119.29
+2024-04-28,Haircut (Men),58.06
+2024-04-28,Haircut (Kids),42.85
+2024-04-28,Color,190.8
+2024-04-28,Treatment,110.89
+2024-04-28,Extensions,382.12
+2024-04-28,Styling,57.28
+2024-04-29,Haircut (Women),56.75
+2024-04-29,Haircut (Kids),23.89
+2024-04-29,Color,137.39
+2024-04-29,Styling,66.59
+2024-04-30,Haircut (Men),37.51
+2024-04-30,Haircut (Kids),22.76
+2024-04-30,Color,110.95
+2024-04-30,Treatment,98.22
+2024-04-30,Extensions,151.57
+2024-04-30,Styling,31.42
+2024-05-01,Haircut (Women),52.19
+2024-05-01,Color,119.82
+2024-05-01,Extensions,289.62
+2024-05-02,Haircut (Men),30.57
+2024-05-02,Haircut (Women),50.59
+2024-05-02,Haircut (Kids),15.09
+2024-05-02,Styling,66.49
+2024-05-03,Haircut (Men),31.53
+2024-05-03,Haircut (Kids),40.45
+2024-05-03,Extensions,295.51
+2024-05-04,Haircut (Men),43.83
+2024-05-04,Color,105.09
+2024-05-04,Treatment,78.73
+2024-05-04,Extensions,442.11
+2024-05-04,Styling,81.3
+2024-05-05,Haircut (Women),86.59
+2024-05-05,Haircut (Kids),28.65
+2024-05-05,Treatment,130.91
+2024-05-05,Styling,85.03
+2024-05-06,Haircut (Men),37.12
+2024-05-06,Haircut (Kids),15.49
+2024-05-06,Treatment,72.04
+2024-05-07,Haircut (Men),36.07
+2024-05-07,Haircut (Women),50.31
+2024-05-07,Haircut (Kids),17.04
+2024-05-07,Color,134.69
+2024-05-07,Extensions,152.06
+2024-05-07,Styling,60.61
+2024-05-08,Haircut (Women),39.72
+2024-05-08,Haircut (Kids),29.47
+2024-05-08,Color,97.52
+2024-05-08,Treatment,102.64
+2024-05-08,Extensions,189.84
+2024-05-08,Styling,40.16
+2024-05-09,Haircut (Men),30.5
+2024-05-09,Haircut (Women),57.84
+2024-05-09,Haircut (Kids),18.72
+2024-05-09,Color,96.86
+2024-05-10,Haircut (Men),59.99
+2024-05-10,Haircut (Women),46.23
+2024-05-10,Color,144.65
+2024-05-10,Styling,81.0
+2024-05-11,Haircut (Men),41.76
+2024-05-11,Haircut (Women),74.39
+2024-05-11,Treatment,152.6
+2024-05-12,Haircut (Women),48.54
+2024-05-12,Treatment,103.24
+2024-05-12,Styling,67.15
+2024-05-13,Haircut (Kids),27.59
+2024-05-13,Color,127.82
+2024-05-13,Treatment,75.45
+2024-05-13,Extensions,238.5
+2024-05-14,Haircut (Women),47.05
+2024-05-14,Haircut (Kids),19.97
+2024-05-14,Treatment,69.89
+2024-05-14,Extensions,158.2
+2024-05-14,Styling,79.11
+2024-05-15,Haircut (Men),36.66
+2024-05-15,Haircut (Women),49.11
+2024-05-15,Treatment,93.86
+2024-05-15,Styling,56.28
+2024-05-16,Haircut (Men),21.92
+2024-05-16,Haircut (Kids),26.44
+2024-05-16,Color,82.61
+2024-05-17,Haircut (Women),77.66
+2024-05-17,Treatment,77.74
+2024-05-17,Styling,118.45
+2024-05-18,Haircut (Men),37.75
+2024-05-18,Haircut (Women),45.18
+2024-05-18,Haircut (Kids),36.68
+2024-05-18,Treatment,100.41
+2024-05-18,Extensions,291.62
+2024-05-18,Styling,103.69
+2024-05-19,Haircut (Men),33.59
+2024-05-19,Haircut (Women),48.32
+2024-05-19,Haircut (Kids),40.31
+2024-05-19,Color,117.47
+2024-05-19,Styling,64.98
+2024-05-20,Haircut (Women),55.02
+2024-05-20,Haircut (Kids),22.27
+2024-05-20,Treatment,118.08
+2024-05-20,Styling,31.71
+2024-05-21,Haircut (Women),40.35
+2024-05-21,Haircut (Kids),29.54
+2024-05-21,Color,113.65
+2024-05-21,Treatment,117.7
+2024-05-21,Styling,61.9
+2024-05-22,Haircut (Men),21.5
+2024-05-22,Haircut (Women),45.13
+2024-05-22,Color,116.35
+2024-05-22,Treatment,100.08
+2024-05-22,Extensions,260.97
+2024-05-22,Styling,32.12
+2024-05-23,Haircut (Women),51.86
+2024-05-23,Color,135.63
+2024-05-24,Haircut (Men),55.94
+2024-05-24,Color,219.82
+2024-05-24,Treatment,98.46
+2024-05-24,Extensions,321.84
+2024-05-24,Styling,73.29
+2024-05-25,Haircut (Men),43.09
+2024-05-25,Haircut (Women),49.31
+2024-05-25,Haircut (Kids),34.35
+2024-05-25,Treatment,154.84
+2024-05-26,Haircut (Women),56.65
+2024-05-26,Haircut (Kids),28.48
+2024-05-26,Color,193.15
+2024-05-26,Extensions,316.57
+2024-05-27,Haircut (Women),43.23
+2024-05-27,Haircut (Kids),23.36
+2024-05-27,Color,101.4
+2024-05-27,Treatment,73.91
+2024-05-27,Extensions,221.14
+2024-05-27,Styling,66.17
+2024-05-28,Haircut (Men),24.3
+2024-05-28,Haircut (Women),45.45
+2024-05-28,Extensions,184.02
+2024-05-28,Styling,70.51
+2024-05-29,Haircut (Men),22.06
+2024-05-29,Treatment,108.04
+2024-05-29,Styling,46.13
+2024-05-30,Haircut (Men),31.51
+2024-05-30,Haircut (Women),34.02
+2024-05-30,Haircut (Kids),23.15
+2024-05-30,Treatment,109.03
+2024-05-30,Extensions,253.14
+2024-05-30,Styling,55.54
+2024-05-31,Haircut (Men),42.64
+2024-05-31,Haircut (Kids),44.64
+2024-05-31,Color,170.9
+2024-05-31,Treatment,179.15
+2024-05-31,Extensions,360.16
+2024-05-31,Styling,76.57
+2024-06-01,Haircut (Men),53.64
+2024-06-01,Haircut (Kids),40.66
+2024-06-01,Color,143.43
+2024-06-01,Treatment,138.6
+2024-06-01,Extensions,371.28
+2024-06-02,Haircut (Kids),39.85
+2024-06-02,Treatment,156.28
+2024-06-02,Extensions,402.85
+2024-06-03,Haircut (Women),48.49
+2024-06-03,Color,101.86
+2024-06-03,Treatment,106.32
+2024-06-03,Extensions,245.68
+2024-06-03,Styling,51.52
+2024-06-04,Haircut (Men),34.7
+2024-06-04,Haircut (Women),39.13
+2024-06-04,Color,137.23
+2024-06-04,Treatment,105.24
+2024-06-04,Extensions,170.67
+2024-06-04,Styling,54.46
+2024-06-05,Haircut (Women),51.62
+2024-06-05,Haircut (Kids),19.54
+2024-06-05,Color,118.77
+2024-06-05,Treatment,83.93
+2024-06-06,Haircut (Men),32.05
+2024-06-06,Treatment,96.81
+2024-06-06,Styling,47.98
+2024-06-07,Haircut (Men),31.09
+2024-06-07,Haircut (Women),67.51
+2024-06-07,Color,165.14
+2024-06-07,Extensions,378.32
+2024-06-08,Haircut (Women),48.9
+2024-06-08,Color,177.59
+2024-06-08,Styling,49.5
+2024-06-09,Haircut (Women),72.13
+2024-06-09,Haircut (Kids),25.47
+2024-06-09,Treatment,174.19
+2024-06-09,Extensions,364.53
+2024-06-10,Haircut (Women),31.85
+2024-06-10,Color,86.13
+2024-06-10,Treatment,77.0
+2024-06-10,Styling,46.26
+2024-06-11,Haircut (Men),22.09
+2024-06-11,Haircut (Women),36.32
+2024-06-11,Haircut (Kids),24.03
+2024-06-11,Color,112.21
+2024-06-11,Treatment,95.14
+2024-06-11,Extensions,224.88
+2024-06-12,Haircut (Men),39.36
+2024-06-12,Haircut (Kids),27.57
+2024-06-12,Styling,40.34
+2024-06-13,Haircut (Men),23.25
+2024-06-13,Haircut (Women),34.05
+2024-06-13,Haircut (Kids),20.61
+2024-06-13,Extensions,180.81
+2024-06-14,Haircut (Men),57.82
+2024-06-14,Color,221.64
+2024-06-14,Extensions,261.3
+2024-06-14,Styling,57.99
+2024-06-15,Haircut (Men),56.9
+2024-06-15,Haircut (Kids),23.64
+2024-06-15,Color,131.71
+2024-06-15,Extensions,376.93
+2024-06-16,Treatment,75.93
+2024-06-16,Extensions,407.69
+2024-06-17,Haircut (Men),22.96
+2024-06-17,Haircut (Kids),18.62
+2024-06-17,Color,141.1
+2024-06-17,Styling,66.35
+2024-06-18,Haircut (Men),20.31
+2024-06-18,Haircut (Women),35.03
+2024-06-18,Color,126.66
+2024-06-18,Treatment,69.35
+2024-06-18,Styling,33.56
+2024-06-19,Haircut (Kids),28.89
+2024-06-19,Treatment,73.4
+2024-06-19,Extensions,151.07
+2024-06-20,Haircut (Kids),21.75
+2024-06-20,Styling,70.47
+2024-06-21,Haircut (Women),81.32
+2024-06-21,Treatment,88.04
+2024-06-21,Styling,100.83
+2024-06-22,Styling,46.87
+2024-06-23,Haircut (Men),48.64
+2024-06-23,Haircut (Women),76.88
+2024-06-23,Haircut (Kids),32.51
+2024-06-23,Color,224.81
+2024-06-23,Styling,69.62
+2024-06-24,Haircut (Women),36.79
+2024-06-24,Haircut (Kids),15.21
+2024-06-24,Treatment,114.61
+2024-06-24,Extensions,223.41
+2024-06-24,Styling,38.52
+2024-06-25,Haircut (Men),30.82
+2024-06-25,Haircut (Kids),28.79
+2024-06-25,Treatment,83.14
+2024-06-25,Styling,34.55
+2024-06-26,Haircut (Men),34.31
+2024-06-26,Haircut (Women),35.79
+2024-06-27,Haircut (Men),34.78
+2024-06-27,Color,142.35
+2024-06-27,Treatment,114.96
+2024-06-27,Extensions,156.54
+2024-06-27,Styling,33.59
+2024-06-28,Haircut (Men),48.8
+2024-06-28,Haircut (Women),88.35
+2024-06-28,Extensions,254.72
+2024-06-29,Haircut (Men),54.64
+2024-06-29,Color,195.57
+2024-06-29,Styling,88.24
+2024-06-30,Haircut (Men),41.51
+2024-06-30,Haircut (Kids),26.39
+2024-06-30,Color,199.29
+2024-06-30,Extensions,262.24
+2024-06-30,Styling,59.22
+2024-07-01,Haircut (Men),25.63
+2024-07-01,Haircut (Women),36.0
+2024-07-01,Styling,77.72
+2024-07-02,Haircut (Kids),19.68
+2024-07-02,Color,107.14
+2024-07-02,Extensions,272.51
+2024-07-03,Haircut (Kids),23.03
+2024-07-03,Color,139.22
+2024-07-03,Extensions,217.87
+2024-07-03,Styling,46.47
+2024-07-04,Haircut (Kids),29.14
+2024-07-04,Color,90.2
+2024-07-04,Extensions,217.9
+2024-07-04,Styling,35.7
+2024-07-05,Haircut (Men),49.98
+2024-07-05,Haircut (Women),50.73
+2024-07-05,Color,170.96
+2024-07-05,Styling,92.35
+2024-07-06,Haircut (Men),42.37
+2024-07-06,Haircut (Kids),38.75
+2024-07-06,Treatment,112.85
+2024-07-06,Extensions,263.37
+2024-07-06,Styling,74.41
+2024-07-07,Haircut (Women),70.88
+2024-07-07,Color,168.06
+2024-07-07,Treatment,108.49
+2024-07-07,Styling,84.92
+2024-07-08,Haircut (Men),33.37
+2024-07-08,Haircut (Women),59.17
+2024-07-08,Haircut (Kids),27.94
+2024-07-08,Color,129.92
+2024-07-08,Treatment,83.96
+2024-07-08,Extensions,224.81
+2024-07-09,Haircut (Men),34.63
+2024-07-09,Haircut (Women),33.25
+2024-07-09,Haircut (Kids),17.18
+2024-07-09,Color,100.69
+2024-07-09,Styling,76.36
+2024-07-10,Haircut (Men),22.27
+2024-07-10,Haircut (Women),34.86
+2024-07-10,Haircut (Kids),19.53
+2024-07-10,Extensions,204.59
+2024-07-10,Styling,37.51
+2024-07-11,Haircut (Men),32.42
+2024-07-11,Haircut (Women),44.86
+2024-07-11,Styling,71.06
+2024-07-12,Haircut (Men),55.99
+2024-07-12,Haircut (Women),60.43
+2024-07-12,Haircut (Kids),29.94
+2024-07-12,Color,132.79
+2024-07-13,Extensions,305.17
+2024-07-13,Styling,104.51
+2024-07-14,Haircut (Women),60.64
+2024-07-14,Color,203.54
+2024-07-14,Treatment,166.2
+2024-07-14,Extensions,349.06
+2024-07-15,Haircut (Men),36.45
+2024-07-15,Haircut (Women),39.86
+2024-07-15,Haircut (Kids),21.02
+2024-07-15,Color,134.77
+2024-07-15,Treatment,104.24
+2024-07-15,Extensions,166.9
+2024-07-15,Styling,63.43
+2024-07-16,Haircut (Men),35.55
+2024-07-16,Haircut (Women),44.39
+2024-07-16,Haircut (Kids),18.65
+2024-07-16,Color,134.67
+2024-07-16,Treatment,106.31
+2024-07-16,Extensions,153.86
+2024-07-17,Haircut (Kids),24.16
+2024-07-17,Extensions,176.62
+2024-07-18,Haircut (Women),48.58
+2024-07-18,Color,133.65
+2024-07-18,Styling,78.77
+2024-07-19,Haircut (Men),31.94
+2024-07-19,Haircut (Women),64.4
+2024-07-19,Haircut (Kids),40.14
+2024-07-19,Color,213.27
+2024-07-19,Treatment,172.94
+2024-07-19,Styling,116.36
+2024-07-20,Haircut (Women),88.62
+2024-07-20,Treatment,104.63
+2024-07-20,Extensions,433.06
+2024-07-20,Styling,78.89
+2024-07-21,Haircut (Men),32.82
+2024-07-21,Haircut (Women),89.33
+2024-07-21,Color,194.33
+2024-07-22,Haircut (Women),49.04
+2024-07-22,Haircut (Kids),24.19
+2024-07-22,Color,120.99
+2024-07-22,Treatment,72.15
+2024-07-22,Styling,76.07
+2024-07-23,Haircut (Men),31.03
+2024-07-23,Haircut (Kids),29.51
+2024-07-23,Color,140.42
+2024-07-23,Extensions,236.43
+2024-07-23,Styling,49.14
+2024-07-24,Haircut (Men),27.2
+2024-07-24,Haircut (Women),35.44
+2024-07-24,Haircut (Kids),22.57
+2024-07-24,Color,112.0
+2024-07-24,Treatment,60.7
+2024-07-24,Styling,73.54
+2024-07-25,Haircut (Men),22.09
+2024-07-25,Haircut (Kids),15.54
+2024-07-25,Color,85.98
+2024-07-25,Treatment,112.01
+2024-07-25,Extensions,184.62
+2024-07-26,Haircut (Women),67.29
+2024-07-26,Haircut (Kids),22.99
+2024-07-26,Treatment,155.71
+2024-07-27,Haircut (Men),53.19
+2024-07-27,Haircut (Women),89.71
+2024-07-27,Haircut (Kids),30.62
+2024-07-27,Color,132.21
+2024-07-27,Treatment,135.79
+2024-07-27,Extensions,394.7
+2024-07-28,Color,132.29
+2024-07-28,Treatment,155.74
+2024-07-28,Extensions,354.86
+2024-07-29,Haircut (Men),35.08
+2024-07-29,Haircut (Kids),20.2
+2024-07-29,Color,114.97
+2024-07-29,Treatment,91.04
+2024-07-29,Extensions,238.44
+2024-07-30,Haircut (Men),36.49
+2024-07-30,Haircut (Women),39.5
+2024-07-30,Haircut (Kids),17.0
+2024-07-30,Color,76.87
+2024-07-30,Extensions,212.82
+2024-07-31,Haircut (Men),22.5
+2024-07-31,Haircut (Women),38.23
+2024-07-31,Treatment,67.98
+2024-07-31,Extensions,207.61
+2024-07-31,Styling,46.3
+2024-08-01,Haircut (Men),21.66
+2024-08-02,Haircut (Men),36.77
+2024-08-02,Haircut (Women),74.63
+2024-08-02,Haircut (Kids),25.06
+2024-08-02,Extensions,359.64
+2024-08-02,Styling,71.1
+2024-08-03,Haircut (Men),54.52
+2024-08-03,Haircut (Women),58.37
+2024-08-03,Haircut (Kids),41.4
+2024-08-03,Color,167.78
+2024-08-03,Treatment,176.07
+2024-08-03,Extensions,374.38
+2024-08-04,Treatment,105.84
+2024-08-04,Extensions,448.44
+2024-08-05,Haircut (Men),39.12
+2024-08-05,Haircut (Kids),28.85
+2024-08-05,Color,88.79
+2024-08-05,Treatment,87.12
+2024-08-05,Styling,76.96
+2024-08-06,Haircut (Women),46.49
+2024-08-06,Color,115.19
+2024-08-06,Treatment,97.91
+2024-08-06,Styling,61.57
+2024-08-07,Haircut (Men),37.19
+2024-08-07,Color,92.61
+2024-08-08,Haircut (Men),38.53
+2024-08-08,Haircut (Women),39.62
+2024-08-08,Color,144.69
+2024-08-08,Treatment,111.51
+2024-08-08,Extensions,285.27
+2024-08-08,Styling,37.72
+2024-08-09,Haircut (Men),33.56
+2024-08-09,Haircut (Kids),26.3
+2024-08-09,Color,191.88
+2024-08-09,Extensions,403.23
+2024-08-10,Haircut (Kids),26.57
+2024-08-10,Treatment,113.4
+2024-08-10,Styling,106.55
+2024-08-11,Haircut (Kids),44.15
+2024-08-11,Color,140.69
+2024-08-11,Treatment,140.24
+2024-08-11,Extensions,310.25
+2024-08-11,Styling,75.12
+2024-08-12,Haircut (Men),37.37
+2024-08-12,Haircut (Women),57.67
+2024-08-12,Color,137.82
+2024-08-12,Extensions,170.3
+2024-08-12,Styling,60.04
+2024-08-13,Haircut (Men),33.71
+2024-08-13,Haircut (Kids),23.61
+2024-08-13,Color,75.58
+2024-08-13,Extensions,253.55
+2024-08-14,Color,74.3
+2024-08-14,Treatment,76.61
+2024-08-14,Extensions,223.54
+2024-08-14,Styling,35.47
+2024-08-15,Haircut (Men),32.04
+2024-08-15,Haircut (Women),49.19
+2024-08-15,Color,147.88
+2024-08-15,Treatment,117.84
+2024-08-15,Styling,64.13
+2024-08-16,Haircut (Men),51.69
+2024-08-16,Haircut (Women),64.26
+2024-08-16,Haircut (Kids),33.18
+2024-08-16,Treatment,172.2
+2024-08-16,Extensions,360.81
+2024-08-16,Styling,86.52
+2024-08-17,Haircut (Men),48.75
+2024-08-17,Haircut (Kids),32.45
+2024-08-17,Color,141.85
+2024-08-17,Treatment,174.46
+2024-08-17,Styling,108.51
+2024-08-18,Haircut (Men),55.51
+2024-08-18,Treatment,172.13
+2024-08-18,Styling,98.98
+2024-08-19,Haircut (Men),39.72
+2024-08-19,Treatment,63.08
+2024-08-19,Styling,38.71
+2024-08-20,Haircut (Men),24.05
+2024-08-20,Haircut (Women),56.82
+2024-08-21,Haircut (Men),33.77
+2024-08-21,Haircut (Women),51.16
+2024-08-21,Haircut (Kids),18.52
+2024-08-21,Color,127.27
+2024-08-21,Treatment,65.41
+2024-08-21,Styling,77.26
+2024-08-22,Haircut (Men),28.15
+2024-08-22,Haircut (Women),38.11
+2024-08-22,Color,86.15
+2024-08-22,Treatment,118.36
+2024-08-22,Extensions,239.87
+2024-08-23,Haircut (Kids),25.29
+2024-08-23,Extensions,282.91
+2024-08-24,Haircut (Men),38.66
+2024-08-24,Haircut (Women),66.15
+2024-08-24,Haircut (Kids),33.63
+2024-08-24,Color,112.69
+2024-08-24,Styling,110.28
+2024-08-25,Haircut (Women),88.67
+2024-08-25,Treatment,143.68
+2024-08-25,Extensions,239.79
+2024-08-25,Styling,119.05
+2024-08-26,Haircut (Men),22.86
+2024-08-26,Haircut (Women),44.82
+2024-08-26,Color,109.9
+2024-08-26,Extensions,237.87
+2024-08-27,Haircut (Women),42.99
+2024-08-27,Haircut (Kids),25.5
+2024-08-27,Extensions,263.81
+2024-08-27,Styling,35.29
+2024-08-28,Haircut (Men),38.94
+2024-08-28,Color,92.65
+2024-08-29,Treatment,95.27
+2024-08-29,Extensions,217.6
+2024-08-30,Haircut (Kids),29.51
+2024-08-30,Treatment,148.77
+2024-08-31,Haircut (Women),76.71
+2024-08-31,Color,193.44
+2024-08-31,Extensions,234.54
+2024-08-31,Styling,106.62
+2024-09-01,Haircut (Women),80.96
+2024-09-01,Haircut (Kids),23.72
+2024-09-01,Color,140.73
+2024-09-01,Treatment,108.15
+2024-09-01,Extensions,350.92
+2024-09-01,Styling,84.8
+2024-09-02,Haircut (Kids),25.09
+2024-09-02,Color,119.14
+2024-09-02,Treatment,103.83
+2024-09-03,Haircut (Men),27.69
+2024-09-03,Haircut (Women),51.78
+2024-09-03,Color,142.68
+2024-09-03,Styling,60.86
+2024-09-04,Haircut (Men),39.72
+2024-09-04,Haircut (Women),50.8
+2024-09-04,Haircut (Kids),15.32
+2024-09-04,Treatment,92.49
+2024-09-04,Extensions,182.67
+2024-09-04,Styling,56.95
+2024-09-05,Haircut (Men),23.65
+2024-09-05,Haircut (Women),51.04
+2024-09-05,Haircut (Kids),16.65
+2024-09-05,Color,86.63
+2024-09-05,Treatment,66.12
+2024-09-05,Extensions,233.98
+2024-09-05,Styling,37.61
+2024-09-06,Haircut (Men),53.59
+2024-09-06,Haircut (Women),80.25
+2024-09-06,Color,106.67
+2024-09-06,Extensions,271.92
+2024-09-06,Styling,66.51
+2024-09-07,Haircut (Men),58.32
+2024-09-07,Haircut (Women),71.57
+2024-09-07,Color,162.7
+2024-09-07,Treatment,76.35
+2024-09-07,Extensions,362.3
+2024-09-07,Styling,70.82
+2024-09-08,Haircut (Men),37.33
+2024-09-08,Haircut (Women),74.23
+2024-09-08,Haircut (Kids),38.16
+2024-09-08,Color,134.26
+2024-09-08,Treatment,95.3
+2024-09-08,Styling,112.53
+2024-09-09,Haircut (Men),29.26
+2024-09-09,Haircut (Kids),27.68
+2024-09-09,Treatment,75.77
+2024-09-09,Styling,46.07
+2024-09-10,Haircut (Men),20.49
+2024-09-10,Haircut (Women),52.32
+2024-09-10,Treatment,66.72
+2024-09-10,Styling,49.34
+2024-09-11,Haircut (Men),23.61
+2024-09-11,Haircut (Kids),21.0
+2024-09-11,Color,131.11
+2024-09-11,Extensions,290.63
+2024-09-11,Styling,68.55
+2024-09-12,Haircut (Kids),16.9
+2024-09-12,Treatment,65.2
+2024-09-12,Extensions,285.13
+2024-09-12,Styling,71.87
+2024-09-13,Haircut (Men),39.79
+2024-09-13,Haircut (Women),68.88
+2024-09-13,Haircut (Kids),22.68
+2024-09-13,Extensions,438.25
+2024-09-14,Haircut (Men),40.3
+2024-09-14,Haircut (Women),86.17
+2024-09-14,Treatment,168.21
+2024-09-14,Extensions,282.28
+2024-09-14,Styling,111.82
+2024-09-15,Haircut (Men),31.13
+2024-09-15,Treatment,97.04
+2024-09-15,Extensions,235.51
+2024-09-16,Haircut (Men),25.83
+2024-09-16,Haircut (Women),52.5
+2024-09-16,Color,70.36
+2024-09-16,Treatment,102.48
+2024-09-17,Haircut (Men),31.09
+2024-09-17,Haircut (Kids),29.83
+2024-09-17,Treatment,99.68
+2024-09-17,Styling,37.6
+2024-09-18,Haircut (Men),38.09
+2024-09-18,Haircut (Kids),15.06
+2024-09-18,Color,75.25
+2024-09-18,Treatment,96.41
+2024-09-18,Extensions,296.82
+2024-09-19,Haircut (Men),28.31
+2024-09-19,Haircut (Women),40.56
+2024-09-19,Haircut (Kids),28.81
+2024-09-19,Extensions,189.18
+2024-09-20,Haircut (Men),55.75
+2024-09-20,Haircut (Kids),34.99
+2024-09-20,Color,133.78
+2024-09-20,Styling,111.62
+2024-09-21,Haircut (Kids),39.0
+2024-09-21,Color,219.75
+2024-09-21,Treatment,95.73
+2024-09-21,Extensions,434.65
+2024-09-22,Haircut (Kids),41.55
+2024-09-22,Color,116.77
+2024-09-22,Treatment,124.44
+2024-09-22,Extensions,382.86
+2024-09-23,Haircut (Men),28.47
+2024-09-23,Haircut (Women),34.21
+2024-09-23,Haircut (Kids),17.72
+2024-09-23,Color,83.57
+2024-09-23,Treatment,93.75
+2024-09-23,Extensions,287.85
+2024-09-23,Styling,47.39
+2024-09-24,Haircut (Women),52.8
+2024-09-24,Haircut (Kids),24.61
+2024-09-24,Color,118.63
+2024-09-24,Extensions,207.52
+2024-09-24,Styling,64.27
+2024-09-25,Haircut (Men),27.87
+2024-09-25,Haircut (Women),54.31
+2024-09-25,Extensions,233.42
+2024-09-25,Styling,74.11
+2024-09-26,Haircut (Men),30.82
+2024-09-26,Haircut (Women),40.88
+2024-09-26,Haircut (Kids),21.26
+2024-09-26,Color,108.14
+2024-09-26,Extensions,274.19
+2024-09-26,Styling,67.89
+2024-09-27,Haircut (Women),88.62
+2024-09-27,Haircut (Kids),43.38
+2024-09-27,Color,109.46
+2024-09-27,Treatment,101.88
+2024-09-27,Extensions,328.21
+2024-09-28,Haircut (Kids),34.22
+2024-09-28,Color,215.52
+2024-09-28,Treatment,140.72
+2024-09-28,Extensions,312.43
+2024-09-28,Styling,117.46
+2024-09-29,Haircut (Women),86.7
+2024-09-29,Haircut (Kids),37.71
+2024-09-29,Color,168.92
+2024-09-29,Treatment,118.84
+2024-09-30,Haircut (Men),23.87
+2024-09-30,Haircut (Kids),29.6
+2024-09-30,Treatment,72.76
+2024-09-30,Styling,57.25
+2024-10-01,Color,90.04
+2024-10-01,Treatment,87.28
+2024-10-01,Styling,32.42
+2024-10-02,Color,77.76
+2024-10-02,Treatment,67.59
+2024-10-02,Extensions,193.46
+2024-10-03,Haircut (Men),34.42
+2024-10-03,Treatment,76.85
+2024-10-03,Extensions,242.98
+2024-10-04,Haircut (Men),54.78
+2024-10-04,Haircut (Women),64.21
+2024-10-04,Haircut (Kids),31.05
+2024-10-04,Color,176.58
+2024-10-05,Haircut (Men),52.77
+2024-10-05,Haircut (Kids),28.1
+2024-10-05,Treatment,152.27
+2024-10-05,Extensions,240.22
+2024-10-05,Styling,80.28
+2024-10-06,Haircut (Men),37.38
+2024-10-06,Color,140.19
+2024-10-06,Styling,77.33
+2024-10-07,Haircut (Women),41.92
+2024-10-07,Haircut (Kids),16.43
+2024-10-07,Color,131.81
+2024-10-07,Treatment,54.75
+2024-10-08,Color,84.52
+2024-10-08,Extensions,230.28
+2024-10-08,Styling,74.8
+2024-10-09,Color,101.66
+2024-10-09,Extensions,237.45
+2024-10-09,Styling,54.55
+2024-10-10,Haircut (Kids),29.92
+2024-10-10,Treatment,102.71
+2024-10-10,Styling,43.51
+2024-10-11,Haircut (Men),48.08
+2024-10-11,Haircut (Women),65.41
+2024-10-11,Haircut (Kids),24.19
+2024-10-11,Color,106.86
+2024-10-11,Extensions,265.25
+2024-10-12,Haircut (Men),49.66
+2024-10-12,Haircut (Women),67.75
+2024-10-12,Haircut (Kids),25.38
+2024-10-12,Color,140.94
+2024-10-12,Extensions,446.24
+2024-10-12,Styling,94.34
+2024-10-13,Haircut (Men),31.0
+2024-10-13,Haircut (Women),49.72
+2024-10-13,Haircut (Kids),22.53
+2024-10-13,Extensions,259.68
+2024-10-13,Styling,79.62
+2024-10-14,Haircut (Kids),16.43
+2024-10-14,Treatment,94.13
+2024-10-15,Haircut (Men),21.61
+2024-10-15,Haircut (Women),43.74
+2024-10-15,Color,102.03
+2024-10-15,Treatment,81.24
+2024-10-15,Extensions,202.08
+2024-10-15,Styling,35.33
+2024-10-16,Extensions,267.58
+2024-10-17,Haircut (Women),44.28
+2024-10-17,Color,143.49
+2024-10-17,Styling,42.58
+2024-10-18,Haircut (Kids),30.09
+2024-10-18,Treatment,109.32
+2024-10-18,Styling,50.08
+2024-10-19,Haircut (Men),58.59
+2024-10-19,Haircut (Women),73.71
+2024-10-19,Treatment,147.97
+2024-10-19,Extensions,429.81
+2024-10-19,Styling,98.68
+2024-10-20,Haircut (Men),34.49
+2024-10-20,Haircut (Women),88.81
+2024-10-20,Haircut (Kids),39.45
+2024-10-20,Color,119.31
+2024-10-20,Treatment,118.33
+2024-10-21,Haircut (Women),55.04
+2024-10-21,Haircut (Kids),26.83
+2024-10-21,Color,81.49
+2024-10-21,Treatment,113.2
+2024-10-21,Styling,39.51
+2024-10-22,Haircut (Kids),29.67
+2024-10-22,Color,129.03
+2024-10-22,Styling,44.04
+2024-10-23,Haircut (Men),36.87
+2024-10-23,Haircut (Women),52.16
+2024-10-23,Extensions,177.19
+2024-10-24,Haircut (Men),34.19
+2024-10-24,Haircut (Kids),29.29
+2024-10-24,Color,99.69
+2024-10-24,Treatment,115.53
+2024-10-24,Styling,68.3
+2024-10-25,Haircut (Men),35.88
+2024-10-25,Haircut (Kids),40.04
+2024-10-25,Treatment,127.49
+2024-10-25,Extensions,316.67
+2024-10-26,Haircut (Men),58.06
+2024-10-26,Haircut (Women),57.45
+2024-10-26,Color,190.95
+2024-10-26,Treatment,76.2
+2024-10-26,Extensions,274.93
+2024-10-26,Styling,63.3
+2024-10-27,Haircut (Women),57.46
+2024-10-27,Haircut (Kids),37.42
+2024-10-27,Color,201.87
+2024-10-27,Styling,115.03
+2024-10-28,Haircut (Men),24.86
+2024-10-28,Haircut (Women),44.54
+2024-10-28,Color,113.63
+2024-10-28,Treatment,118.15
+2024-10-28,Extensions,208.34
+2024-10-28,Styling,69.1
+2024-10-29,Haircut (Women),53.32
+2024-10-29,Treatment,102.91
+2024-10-29,Styling,64.73
+2024-10-30,Haircut (Men),23.1
+2024-10-30,Haircut (Kids),26.29
+2024-10-30,Color,133.93
+2024-10-30,Treatment,61.17
+2024-10-30,Extensions,216.56
+2024-10-30,Styling,79.14
+2024-10-31,Haircut (Men),20.35
+2024-10-31,Haircut (Women),50.44
+2024-10-31,Extensions,208.3
+2024-10-31,Styling,62.93
+2024-11-01,Haircut (Men),54.33
+2024-11-01,Haircut (Kids),27.51
+2024-11-01,Color,180.6
+2024-11-01,Treatment,164.48
+2024-11-01,Extensions,341.28
+2024-11-02,Haircut (Men),36.85
+2024-11-02,Haircut (Kids),32.7
+2024-11-02,Color,210.06
+2024-11-02,Treatment,127.16
+2024-11-02,Extensions,356.74
+2024-11-02,Styling,84.96
+2024-11-03,Haircut (Men),31.88
+2024-11-03,Haircut (Kids),40.97
+2024-11-03,Extensions,365.13
+2024-11-03,Styling,118.75
+2024-11-04,Haircut (Men),20.52
+2024-11-04,Haircut (Kids),16.27
+2024-11-04,Color,77.7
+2024-11-04,Treatment,53.39
+2024-11-04,Extensions,226.85
+2024-11-04,Styling,34.39
+2024-11-05,Haircut (Women),57.87
+2024-11-05,Haircut (Kids),17.36
+2024-11-05,Color,143.4
+2024-11-05,Treatment,84.88
+2024-11-05,Extensions,268.77
+2024-11-05,Styling,67.98
+2024-11-06,Haircut (Men),37.77
+2024-11-06,Color,105.25
+2024-11-06,Styling,71.84
+2024-11-07,Haircut (Women),48.99
+2024-11-07,Haircut (Kids),25.39
+2024-11-07,Color,146.17
+2024-11-07,Extensions,197.86
+2024-11-07,Styling,44.05
+2024-11-08,Haircut (Kids),37.67
+2024-11-08,Treatment,168.45
+2024-11-08,Extensions,273.16
+2024-11-09,Haircut (Women),67.03
+2024-11-09,Haircut (Kids),31.11
+2024-11-09,Color,144.55
+2024-11-09,Treatment,142.19
+2024-11-09,Extensions,372.49
+2024-11-09,Styling,82.74
+2024-11-10,Haircut (Women),51.89
+2024-11-10,Haircut (Kids),23.52
+2024-11-10,Treatment,174.67
+2024-11-10,Styling,108.46
